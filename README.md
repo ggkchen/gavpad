@@ -1,6 +1,7 @@
 # Gavpad!
 
 <img width="1520" height="770" alt="Assembly_2025-Dec-07_07-30-17AM-000_CustomizedView14021051386_png" src="https://github.com/user-attachments/assets/b1ffe73f-4787-4cf6-9c57-e763205bf30a" />
+
 ### Inspiration
 I wanted to make a macro pad to help me quickly open up my AI assistants. So, I created a macro pad to quickly open up ChatGPT, Gemini, Cursor, and DeepSeek.
 
